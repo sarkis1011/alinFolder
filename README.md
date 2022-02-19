@@ -1,0 +1,2 @@
+# alinFolder
+newAllinProject
